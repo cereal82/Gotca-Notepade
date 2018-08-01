@@ -1,2 +1,0 @@
-# Gotca-Notepade
-coding exercise
